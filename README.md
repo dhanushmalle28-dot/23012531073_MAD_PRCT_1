@@ -17,7 +17,7 @@ Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 1.3 Student Information Input/Output
 
 Reads student details (name, enrollment no, branch, etc.) using readLine(). Displays them back in formatted form. 
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/6913901aa73a00da634f50ae29d233cda99cafae/Screenshot%202025-11-27%20231103.png)
 
 Concepts Covered: Input Handling, String Templates.
 
