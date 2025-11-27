@@ -38,13 +38,11 @@ Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
 ![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/9dfc73fede295e3a114859309fad4990d536800f/Screenshot%202025-11-27%20232000.png)
-![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/02aec6c61e2c6b4e7e4dfbab8422dea97cd739f5/Screenshot%202025-11-27%20232414.png)
-
 Concepts Covered: Recursion, Function Calls.
 
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
-
-![image alt]() image
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/6ba28e122da4a8d9ffc4ba7d39f40b255b707de8/Screenshot%202025-11-27%20232244.png)
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/02aec6c61e2c6b4e7e4dfbab8422dea97cd739f5/Screenshot%202025-11-27%20232414.png)
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration. 
