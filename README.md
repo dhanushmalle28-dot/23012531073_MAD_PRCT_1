@@ -37,7 +37,7 @@ Concepts Covered: when Expression, Branching.
 Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/9dfc73fede295e3a114859309fad4990d536800f/Screenshot%202025-11-27%20232000.png)
 
 Concepts Covered: Recursion, Function Calls.
 
