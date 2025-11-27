@@ -3,7 +3,7 @@
 Declares and initializes variables of types: Int, Double, Float, Long, Short, Byte, Char, Boolean, String.
 
 Displays them using println().
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/94c6d1beb9617f4b47cf2128221d759d60f51265/Screenshot%202025-11-27%20230042.png)
 
 Concepts Covered: Variables, Data Types, Printing Output.
 
