@@ -23,7 +23,7 @@ Concepts Covered: Input Handling, String Templates.
 
 1.4 Odd or Even Number Check Accepts a number and determines whether it is odd or even. Uses control flow inside println().
 
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/10966c0f7adda822f67a9b16045211dcc72a7356/Screenshot%202025-11-27%20231343.png)
 Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
