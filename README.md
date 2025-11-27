@@ -46,7 +46,7 @@ Concepts Covered: Recursion, Function Calls.
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration. 
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/a7566838e452cf12f30b8704e1e79bdfd3b39f1d/Screenshot%202025-11-27%20233334.png)
 
 Concepts Covered: Collections, Iteration, Conditional Logic.
 
