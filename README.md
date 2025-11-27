@@ -28,7 +28,7 @@ Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
 
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/c9ef5c041a2f07e284b131526c95b0d4bd3115dc/Screenshot%202025-11-27%20231622.png)
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
