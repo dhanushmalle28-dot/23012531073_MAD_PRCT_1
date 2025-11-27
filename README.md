@@ -10,52 +10,55 @@ Concepts Covered: Variables, Data Types, Printing Output.
 1.2 Type Conversion
 
 Demonstrates type casting and conversion functions in Kotlin: Int → Double String → Int String → Double 
-![image alt]()
+![image alt](https://github.com/dhanushmalle28-dot/23012531073_MAD_PRCT_1/blob/fb3f01994d7855d8fac150c3eabebd6b62f3dc5a/Screenshot%202025-11-27%20230346.png)
 
 Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 
 1.3 Student Information Input/Output
 
-Reads student details (name, enrollment no, branch, etc.) using readLine(). Displays them back in formatted form. image
+Reads student details (name, enrollment no, branch, etc.) using readLine(). Displays them back in formatted form. 
+![image alt]()
 
 Concepts Covered: Input Handling, String Templates.
 
 1.4 Odd or Even Number Check Accepts a number and determines whether it is odd or even. Uses control flow inside println().
 
-image
+![image alt]()
 Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
 
-image
+![image alt]()
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
 
-image
+![image alt]()
 Concepts Covered: Functions, Parameters, Return Values.
 
-1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number. image
+1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
+![image alt]()
 
 Concepts Covered: Recursion, Function Calls.
 
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
 
-image image
+![image alt]() image
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
-1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration. image
+1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration. 
+![image alt]()
 
 Concepts Covered: Collections, Iteration, Conditional Logic.
 
 1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details.
 
-image
+![image alt]()
 Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
 
 1.11 Operator Overloading & Matrix Operations Implements a Matrix class. Defines operator functions for: Addition (+) Subtraction (-) Multiplication (*) Overloads toString() for custom display of matrix contents.
 
-image image
+![image alt]() image
 Concepts Covered: Operator Overloading, Class Design, Object-Oriented Programming.
 
 📝 Conclusion
